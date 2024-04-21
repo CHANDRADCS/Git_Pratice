@@ -15,3 +15,8 @@ echo $x
 y=10+1
 echo $y
 
+y=$((10+1))
+echo $y
+
+
+
