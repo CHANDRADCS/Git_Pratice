@@ -4,3 +4,7 @@
 echo "this is comment line typing"
 
 x=10
+
+echo pwd
+
+
