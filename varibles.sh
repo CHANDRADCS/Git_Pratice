@@ -7,4 +7,4 @@ x=10
 
 echo pwd
 
-
+echo $PWD
