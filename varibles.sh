@@ -8,3 +8,10 @@ x=10
 echo pwd
 
 echo $PWD
+
+x=10
+echo $x
+
+y=10+1
+echo $y
+
